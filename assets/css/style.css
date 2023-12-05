@@ -1,11 +1,11 @@
-/*Asterisk wildcard selector to override default styles added by the browser */
+/* Asterisk wildcard selector to override default styles added by the browser */
 {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-/8 General styles */
+/* General styles */
 body {
     min-height: 100vh;
     display: flex;
@@ -26,7 +26,7 @@ main {
     flex: 1 0 auto;
 }
 
-
+/* Footer */
 footer {
     background-color: orange;
 }
