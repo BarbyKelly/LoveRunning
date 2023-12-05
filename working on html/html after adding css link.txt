@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- content="IE-edge" changed to content="IE=edge" when using diff checker-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta tags for search engines -->
+    <meta name="description"
+      content="Love Running. Club for runners in Dublin, Ireland. Urban running, trail running. Dublin docklands and Phoenix Park">
+    <meta name="keywords" content="love running, run, running club, runners, Ireland, Dublin, sport, exercise">
+    <!--Title changed, Jefferson Bantawig's favicon didn't work eiter, then I saw he had noted a title change, I had changed the title yet I hadn't commented on it -->
+    <title>Love Running</title>
+    <!-- Favicon -->
+
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/favicon/apple-touch-icon.png"
+    >
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/favicon/favicon-32x32.png"
+    >
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/favicon/favicon-16x16.png"
+    >
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>Header</header>
+
+    <!-- Main content -->
+    <main>Main content</main>
+
+    <!-- Footer -->
+    <footer>Footer</footer>
+
+    <!-- all of html disappeared from VS Code, when I went to delete 
+    couple of empty spaces between meta name. I copy and pasted my html
+    from diffchecker back as I had been working on checking the differences.
+    Ctrl-z did not bring back what I had already done in html. I had pushed it 
+    to github on Friday, looks ok there. While typing this, all of html disappeared again,
+    this time I noticed arrows beside numbers, and after clicking was able to see all of html code-->
+</body>
+</html>
