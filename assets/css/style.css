@@ -1,4 +1,4 @@
-/* Google fonts import */ 
+/* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 
 /* Asterisk wildcard selector to override default styles added by the browser */
@@ -25,6 +25,7 @@ header {
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px  2px #3a3a3a;
+       
 }
 
 header a {
@@ -32,7 +33,7 @@ header a {
     color: inherit;
 }
 h1 {
-    font-family: 'Oswald' , sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
@@ -51,7 +52,18 @@ h1 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
 }
+
 /* Main content */
 main {
     background-color: lightblue;
