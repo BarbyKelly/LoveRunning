@@ -259,6 +259,12 @@ flex-wrap: wrap;
         color: #fafafa;     
         }
 
+        /* sign up form, some things I couldn't figure out myself,
+         I used tutor's solution then. I see from testing, I don't have
+         a special message popping up if @ isn't used in email address.
+         I had made a note it's something I would like to have, and I see tutor
+         has it. I did compare our codes in diff check as requested. */
+         
     /* Media query: tablets and larger (768px and up) */
     @media screen and (min-width: 768px) {
         
